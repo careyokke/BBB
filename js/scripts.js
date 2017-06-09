@@ -11,3 +11,12 @@ $(document).ready(function() {
             $(".bingbongOutput ul").append("<li>*bong*</li>");
           } else {
               $(".bingbongOutput ul").append("<li>" + (i) + "</li>");
+            }
+    }
+    event.preventDefault();
+  });
+  $("#play-again").click(function(event) {
+    location.reload(true);
+
+  });
+});
