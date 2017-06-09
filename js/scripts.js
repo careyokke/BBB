@@ -9,3 +9,5 @@ $(document).ready(function() {
           $(".bingbongOutput ul").append("<li>*bing*</li>");
         } else if ((i%3)!==0 && (i%5)===0) {
             $(".bingbongOutput ul").append("<li>*bong*</li>");
+          } else {
+              $(".bingbongOutput ul").append("<li>" + (i) + "</li>");
