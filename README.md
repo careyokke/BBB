@@ -16,7 +16,7 @@
   <ul>
   <li>1</li>
   <li>2</li>  
-  <li>*bing</li>
+  <li>*bing*</li>
   </ul>
 - App will change 5 to 'bong'
   Input: 5
@@ -24,7 +24,7 @@
    <ul>
   <li>1</li>
   <li>2</li>  
-  <li>*bing</li>
+  <li>*bing*</li>
   <li>4</li>
   <li>*bong*</li>  
   </ul>
@@ -35,7 +35,7 @@
     <ul>
   <li>1</li>
   <li>2</li>  
-  <li>*bing</li>
+  <li>*bing*</li>
   <li>4</li>
   <li>*bong*</li>  
   <li>*bing* </li>
