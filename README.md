@@ -13,38 +13,42 @@
 - App will change 3 to 'bing'
   Input: 3
   Output:
-1 
-2 
-*bing*
-
+  <ul>
+  <li>1</li>
+  <li>2</li>  
+  <li>*bing</li>
+  </ul>
 - App will change 5 to 'bong'
   Input: 5
   Output: 
-1
-2
-*bing*
-4
-*bong*
+   <ul>
+  <li>1</li>
+  <li>2</li>  
+  <li>*bing</li>
+  <li>4</li>
+  <li>*bong*</li>  
+  </ul>
 
 - App will change 15 to 'bingbong'
   Input: 15
   Output:
-1
-2
-*bing*
-4
-*bong*
-*bing*
-7
-8
-*bing*
-*bong*
-11
-*bing*
-13
-14
-!*BINGBONG!
-
+    <ul>
+  <li>1</li>
+  <li>2</li>  
+  <li>*bing</li>
+  <li>4</li>
+  <li>*bong*</li>  
+  <li>*bing* </li>
+  <li>7</li>  
+  <li>8</li>
+  <li>*bing*</li>
+  <li>*bong*</li>  
+  <li>11</li>
+  <li>*bing*</li>  
+  <li>13</li>
+  <li>14</li>
+  <li>!*BINGBONG*!</li>  
+  </ul>
 
 - User will enter new number and see new results
 - HTML & CSS mimic example
