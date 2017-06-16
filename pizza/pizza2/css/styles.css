@@ -1,0 +1,72 @@
+*{
+  color: white;
+}
+
+body {
+  background-image: url(../img/background.jpg);
+}
+
+#header {
+  text-align: center;
+}
+
+.homePizza {
+  width: 15%;
+}
+.homePizza1 {
+  width: 25%;
+}
+
+#finalOrder {
+  display: none;
+}
+
+
+#addPizza {
+  margin-top: 20px;
+}
+
+h4 {
+  display: none;
+}
+
+#receipt {
+  display: none;
+}
+
+#mainInfo, #addressInfo, #addPizza {
+  display: none;
+}
+
+#delivery, #carryOut {
+  width: 225px;
+  height: 125px;
+  font-size: 25px;
+  border: 5px ridge white;
+  background-color: black;
+}
+
+.well {
+  border: 5px ridge white;
+  background-color: black;
+}
+
+#intro {
+  text-align: center;
+}
+
+#orderSummary {
+  display: none;
+}
+
+#userInputFields {
+  display: none;
+}
+
+#finalPizza {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 500px;
+  height: 300px;
+}
