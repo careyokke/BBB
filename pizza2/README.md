@@ -1,9 +1,9 @@
 
-# _JT's Pizza Emporium_
+# _Petza Pizza For Pet_
 
-#### _Web application that takes orders for multiple pizzas and returns user a price. 11.4.16_
 
-#### By _**Jonathan Thom**_
+
+#### By _**Careyokke**_
 
 ## Description
 
@@ -47,7 +47,7 @@ _User selects pizza size and toppings for as many pizzas they want. The price in
 
 ## Support and contact details
 
-_Contact Jonathan at: jonathan.thom1990@gmail.com_
+_Contact Jonathan at: careyokke@yahoo.com_
 
 ## Technologies Used
 
@@ -57,4 +57,4 @@ _Written with HTML, CSS (+Bootstrap), and Javascript (+jQuery)._
 
 *MIT*
 
-Copyright (c) 2016 **_Jonathan Thom_**
+Copyright (c) 2017 **_Careyokke_**
