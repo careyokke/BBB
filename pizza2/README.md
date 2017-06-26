@@ -11,7 +11,7 @@ _User selects pizza size and toppings for as many pizzas they want. The price in
 
 ## Setup/Installation Requirements
 
-* _View here: http://www.jonathanwthom.github.io/pizza_
+* _View here: http://www.careyokke.github.io/pizza_
 * _Works in any modern web browser._
 
 ## Specifications
